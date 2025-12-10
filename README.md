@@ -19,6 +19,10 @@ All files are provided in MP3 format for general accessibility and distribution.
 
 ## Download
 
+The complete set of audio essays is available through the GitHub Releases page:
+
+👉 https://github.com/shawnkellis/continuity-audio-essays/releases
+
 Each file may be downloaded individually, and future volumes will appear under  
 the same release structure.
 
